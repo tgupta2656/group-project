@@ -11,6 +11,8 @@ namespace Group_Project.Controllers
         // GET: Policy
         public ActionResult Index()
         {
+            ViewBag.Title = "Policy Stances";
+
             return View();
         }
     }

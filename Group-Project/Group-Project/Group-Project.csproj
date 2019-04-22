@@ -286,14 +286,14 @@
     <Content Include="Scripts\popper.js.map" />
     <Content Include="Scripts\popper-utils.min.js.map" />
     <Content Include="Scripts\popper-utils.js.map" />
+    <Content Include="Views\CandidateList\Index.cshtml" />
+    <Content Include="Views\KeyDates\Index.cshtml" />
+    <Content Include="Views\Policy\Index.cshtml" />
+    <Content Include="Views\Voting\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\CandidateList\" />
-    <Folder Include="Views\KeyDates\" />
-    <Folder Include="Views\Policy\" />
-    <Folder Include="Views\Voting\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
